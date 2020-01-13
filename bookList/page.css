@@ -1,0 +1,24 @@
+a {
+  color: unset;
+  text-decoration: unset;
+}
+
+body  {
+  font-family: 'Aller Light', Helvetica, Arial, sans-serif;
+  background-color: white;
+}
+
+.bookList {
+  font-size: 1.3rem;
+  color: #204779;
+}
+
+.bookList img {
+  width: 0.6rem;
+}
+
+.bookList li {
+  list-style-type: hebrew;
+  padding-top: 0.4rem;
+}
+
